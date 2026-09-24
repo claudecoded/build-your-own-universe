@@ -35,6 +35,9 @@ Move into the specific directory of the platform model you wish to test (e.g., S
 cd streaming_and_media/spotify
 ```
 
+After this, you're going to land on a screen like my one:
+<img width="1207" height="363" alt="Screenshot 2026-09-24 154849" src="https://github.com/user-attachments/assets/32687931-830f-445a-a7e8-c96b96b4792a" />
+
 ### Step 3: Install Infrastructure Runtime Packages
 Fetch the locked project dependencies specified within the localized package configuration:
 ```bash
@@ -82,6 +85,9 @@ If users encounter operational runtime initialization barriers during automated 
     ```
 
 ---
+If you try to past this commands, you will notice that it will probaly show something like this above.
+<img width="1139" height="430" alt="Screenshot 2026-09-24 155033" src="https://github.com/user-attachments/assets/b194f14a-e43a-4750-bcda-eafff9b34892" />
+But don't worry, just click on "Paste anyway" button and wait (except if your computer it's too slow, if it is you're going to wiat a lot)
 
 ## 🤝 Open-Source Contribution Policies
 
