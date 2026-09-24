@@ -1,8 +1,7 @@
 # Build Your Own <_tech_name_here_> (356 Enterprise Systems Challenge)
 
-Welcome to the ultimate open-source structural framework designed to help software engineers study, build, and scale the foundational core back-end microservices of over 300+ world-class companies. 
-
-This repository provides ready-to-run configurations and microservices blueprints categorized by corporate operational sectors.
+This repository is an on-line tool that allows you clone the most famous softwares and companies with just a few commands.
+Here's how to use it.
 
 ---
 
