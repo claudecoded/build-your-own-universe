@@ -1,0 +1,12 @@
+{
+  "name": "build-your-own-vinted",
+  "version": "1.0.0",
+  "description": "Production-ready blueprint architecture challenge to rebuild VINTED",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

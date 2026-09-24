@@ -1,0 +1,12 @@
+{
+  "name": "build-your-own-skrill",
+  "version": "1.0.0",
+  "description": "Production-ready blueprint architecture challenge to rebuild SKRILL",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

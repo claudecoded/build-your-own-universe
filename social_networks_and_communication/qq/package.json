@@ -1,0 +1,12 @@
+{
+  "name": "build-your-own-qq",
+  "version": "1.0.0",
+  "description": "Production-ready blueprint architecture challenge to rebuild QQ",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

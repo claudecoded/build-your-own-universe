@@ -1,0 +1,12 @@
+{
+  "name": "build-your-own-monday-com",
+  "version": "1.0.0",
+  "description": "Production-ready blueprint architecture challenge to rebuild MONDAY_COM",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
