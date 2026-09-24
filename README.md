@@ -9,12 +9,13 @@ Here's how to use it.
 
 The monorepo architecture organizes **356 distinct technical frameworks** into 6 main global sectors:
 
-*   **`streaming_and_media/`**: High-throughput media distribution systems (Spotify, Netflix, YouTube).
+*   **`streaming_and_media/`**: High-throughput media distribution systems (Spotify, Netflix, YouTube, Apple TV, Hulu).
 *   **`fintech_and_banking/`**: Distributed financial systems and atomic ledger transactions (PayPal, Stripe, Nubank).
-*   **`social_networks_and_communication/`**: Graph modeling and persistent live connectivity (Twitter/X, Instagram, Discord).
+*   **`social_networks_and_communication/`**: Graph modeling and persistent live connectivity (Twitter/X, Instagram, Discord, Facebook).
 *   **`ecommerce_and_marketplaces/`**: Geospatial tracking, elastic lookup, and inventory dispatching (Amazon, Uber, Shopify).
 *   **`saas_and_productivity/`**: Collaborative real-time document sync and work distribution layers (GitHub, Notion, Figma).
-*   **`infrastructure_and_cloud/`**: Edge proxy reverse routing and deep learning model inference (AWS, Cloudflare, OpenAI).
+*   **`infrastructure_and_cloud/`**: Edge proxy reverse routing and deep learning model inference (AWS, Cloudflare, Google Cloud, Anthropic, OpenAI).
+*   **`big_techs_and_software/`**: (Apple, Microsoft, Salesforce, Google, Adobe).
 
 ---
 
