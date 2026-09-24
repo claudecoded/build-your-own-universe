@@ -1,4 +1,4 @@
-# Build Your Own <tech name here> (356 Enterprise Systems Challenge)
+# Build Your Own <_tech_name_here_> (356 Enterprise Systems Challenge)
 
 Welcome to the ultimate open-source structural framework designed to help software engineers study, build, and scale the foundational core back-end microservices of over 300+ world-class companies. 
 
